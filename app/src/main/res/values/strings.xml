@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoHome</string>
+    <string name="addresshint" >متن آدرس را وارد نمایید</string>
+    <string name="namehint">نام مکان یا شخص را وارد نمایید</string>
+    <string name="phonehint">09123456789</string>
+    <string name="voicehint">آدرس صوتی را تنظین نمایید</string>
+</resources>
